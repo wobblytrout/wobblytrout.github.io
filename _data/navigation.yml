@@ -1,0 +1,26 @@
+- title: HUM
+  url: "/"
+  side: left
+
+- title: Armoured Alliance
+  url: "/armoured-alliance/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: MEMES
+  url: "/memes/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
